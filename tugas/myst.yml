@@ -1,0 +1,36 @@
+version: 1
+
+project:
+  title: "Web Statis PPW2"
+  description: "Website statis untuk tugas PPW2"
+  authors:
+    - name:
+        literal: Ahya
+  github: https://github.com/ahyaac/PPW2
+
+  toc:
+    - file: index.md
+    - file: WebMining.md
+    - file: CrawlingPPW.ipynb
+    - file: CrawlingPTA-Berita.ipynb
+    - file: CrawlingPTA_Manajemen.ipynb
+    - file: tugas5-cbow-dan-tf-idf.ipynb
+    - file: ektraksi_LDA.ipynb
+    - file: UTS_PPW_Klasifikasi.ipynb
+    - file: UTS_PPW_Clustering.ipynb
+    - file: PageRank-(Link-dlm-Page).ipynb
+    - file: WebGoogle_10txt.ipynb
+    - file: WebUsage.ipynb
+    - file: NASA.ipynb
+    - file: Nasa2.ipynb
+    - file: WebusageNew.ipynb
+    - file: facebook_ppw.ipynb
+    - file: CrawlDataX.ipynb
+    - file: word_graph_svm.ipynb
+    - file: UAS_PPW_FINAL.ipynb
+
+site:
+  template: book-theme
+  options:
+    baseurl: /PPW2/
+
